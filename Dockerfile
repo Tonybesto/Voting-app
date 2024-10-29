@@ -1,5 +1,5 @@
 # Base Image 
-FROM python:2.7-alpine
+FROM python:3.8-alpine
 
 # Using a new working directory
 WORKDIR /app
